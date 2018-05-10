@@ -1,3 +1,3 @@
 # FinalProject_ES170
 Laura and Nishita's ES-170 Final Project Code
-This is the code for our final project. It includes four parts of code and a test code.
+This is the code for our final project which deals with the Variational Quantum Eigensolver algorithm. It includes four parts of code and a test code. The first part includes creating a Hamiltonian for Lithium Hydride and finding the minimum eigenvalue corresponding to the groundstate energy in numpy. The second part is running VQE in Pyquil/Grove for different gate combinations using the Nelder-Mead minimization algorithm. Part 3 repeats this using Powell minimization algorithm. Part 4 repeats this using Conjugate Gradient (CG) minimization algorithm. The test code file offers some of the most important parts of our project. 
